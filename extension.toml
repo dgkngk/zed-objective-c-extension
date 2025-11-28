@@ -2,9 +2,9 @@ id = "objc"
 name = "Objective-C"
 version = "0.0.1"
 schema_version = 1
-authors = ["bapuwang7@gmail.com"]
+authors = ["bapuwang7@gmail.com", "dgkngk99@gmail.com"]
 description = "Objective-C language support for Zed"
-repository = "https://github.com/bapuqln/zed-objective-c-extension"
+repository = "https://github.com/dgkngk/zed-objective-c-extension"
 
 [grammars.objc]
 repository = "https://github.com/merico-dev/tree-sitter-objc"

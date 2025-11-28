@@ -10,11 +10,11 @@
 
 ;; Category definitions
 (category_interface
-  class_name: (identifier) @name.reference.class
+  class_name: (type_identifier) @name.reference.class
   name: (identifier) @name.definition.category) @scope
 
 (category_implementation
-  class_name: (identifier) @name.reference.class
+  class_name: (type_identifier) @name.reference.class
   name: (identifier) @name.definition.category) @scope
 
 ;; Protocol definitions
